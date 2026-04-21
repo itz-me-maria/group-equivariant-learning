@@ -52,10 +52,13 @@ This project demonstrates how incorporating symmetry into machine learning model
 ---
 
 ## Repository Structure
-.
-![KdV](assets/kdv_trajectory.png)
-![Symmetry](assets/kdv_symmetry_transformations.png)
-![Comparison](assets/model_augmentation_comparison.png)
+
+- README.md  
+- group-theory-for-deep-learning.ipynb  
+- assets/  
+  - kdv_trajectory.png  
+  - kdv_symmetry_transformations.png  
+  - model_augmentation_comparison.png  
 
 ---
 
